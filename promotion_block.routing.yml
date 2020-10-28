@@ -1,0 +1,7 @@
+promotion_block.promotion_settings:
+  path: '/admin/config/promotion/settings'
+  defaults:
+    _form: '\Drupal\promotion_block\Form\PromotionSettings'
+    _title: 'Pomotion configuration settings'
+  requirements:
+    _role: 'administrator'

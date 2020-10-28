@@ -1,0 +1,5 @@
+promotion_modal_assests:
+  js:
+    js/promotion.js: {}
+  dependencies:
+    - core/jquery
